@@ -1,0 +1,46 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    
+}
+.heading{
+    font-size: 30px;
+    background-color: grey;
+    padding-top: 80px;
+}
+h1{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.container{
+    display: flex;
+    padding-top: 50px;
+
+    flex-direction: row;
+    background-color: grey;
+    margin: auto;
+    justify-content: space-evenly;
+    height: 510px;
+}
+textarea{
+    font-size: 18px;
+    padding:5px;
+    font-size: 22px;
+    outline:none;
+    border-radius: 10px ;
+    margin-top: 10px;
+}
+.btn{
+    display: block;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    width: 25%;
+    font-size: 20px;
+    padding:5px;
+    border-radius: 5px;
+    outline: none;
+    padding-top: 5px;
+     
+}
